@@ -7,3 +7,4 @@ Created a customer travel destination map based on user input with hotel informa
 
 
 Using Google maps created a travel itinerary map that shows a round trip with multiple waypoints. 
+![](Vacation_Itinerary/WeatherPy_travel_map.png)
